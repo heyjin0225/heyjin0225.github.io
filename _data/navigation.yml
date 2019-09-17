@@ -2,8 +2,8 @@
 main:
   - title: "블로그 방문하기"
     url: https://heyjin0225.com/
-   - title: "About"
-     url: /about/
+  - title: "About"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
