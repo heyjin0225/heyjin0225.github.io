@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "코딩하는 개발자"
-  avatar           : "/assets/images/keyboard.jpg"
+  avatar           : "/assets/images/keyboard.png"
   bio              : "꿈을 이루기 위해 집에서 코딩하는 개발자의 블로그"
   location         : "South Korea"
   email            :
